@@ -496,4 +496,10 @@ animation:rainbow-bg 4s infinite;
   left: 4%;
   top: 0;
   }
+  .disco-ball {
+  margin-top: -90px;
+}
+#drag-container, #spin-container {
+ top:130px;
+	}
 }
