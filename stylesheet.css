@@ -493,7 +493,7 @@ animation:rainbow-bg 4s infinite;
 @media(max-width:670px){
   #drag-container img {
   position: absolute;
-  left: 4%;
+  left: 3.5%;
   top: 0;
   }
   .disco-ball {
